@@ -4,7 +4,7 @@
       <div class="text-center">
         <!-- Titile -->
         <h3 class="mb-4 text-4xl font-extrabold text-white">Kreditku</h3>
-        <div class="mb-4 space-x-6 text-lg text-white md:space-x-10">
+        <div class="mb-4 space-x-4 text-base text-white md:text-lg md:space-x-10">
           <a href="#" class="hover:text-gray-200">Beranda</a>
           <a href="#" class="hover:text-gray-200">Produk</a>
           <a href="#" class="hover:text-gray-200">Layanan</a>
