@@ -3,7 +3,7 @@
    <nav>
      <div class="container px-5 py-4 mx-auto lg:items-center lg:justify-between lg:flex">
        <!-- Nav Brand -->
-       <div class="flex justify-between">
+       <div class="flex items-center justify-between">
         <h3 class="text-4xl font-extrabold text-primary">Kreditku</h3>
         <button @click="showHamburger" class="w-7 h-7 rounded-sm lg:hidden hover:text-primary hover:ring-[#2468e6] ring-[#71717a] focus:ring-[#2468e6] focus:text-primary ring-2 text-captions focus:outline-none">
           <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 mx-auto" viewBox="0 0 20 20" fill="currentColor">
