@@ -5,6 +5,9 @@
     <features-app></features-app>
     <product-app></product-app>
     <join-app></join-app>
+    <review-app></review-app>
+    <contact-app></contact-app>
+    <footer-app></footer-app>
   </div>
 </template>
 
@@ -14,9 +17,12 @@ import HeroApp from './components/HeroApp.vue'
 import FeaturesApp from './components/FeaturesApp.vue'
 import ProductApp from './components/ProductApp.vue'
 import JoinApp from './components/JoinApp.vue'
+import ReviewApp from './components/ReviewApp.vue'
+import ContactApp from './components/ContactApp.vue'
+import FooterApp from './components/FooterApp.vue'
 export default {
   components: {
-    NavbarApp, HeroApp, FeaturesApp, ProductApp, JoinApp
+    NavbarApp, HeroApp, FeaturesApp, ProductApp, JoinApp, ReviewApp, ContactApp, FooterApp
   }
 }
 
