@@ -1,7 +1,7 @@
 <template>
-  <section id="navbar-app">
-   <nav>
-     <div class="container px-5 py-4 mx-auto lg:items-center lg:justify-between lg:flex">
+  <section id="navbar-app" class="fixed z-50 w-full bg-white shadow-sm">
+   <nav class="">
+     <div class="container px-5 py-4 mx-auto bg-white lg:items-center lg:justify-between lg:flex">
        <!-- Nav Brand -->
        <div class="flex items-center justify-between">
         <h3 class="text-4xl font-extrabold text-primary">Kreditku</h3>

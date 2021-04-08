@@ -1,5 +1,5 @@
 <template>
-  <section id="hero-app">
+  <section id="hero-app" class="relative pt-16">
     <div class="bg-gradient-to-b h-full lg:h-auto from-[#5558ff] to-[#00C0ff]">
       <div class="container flex flex-col items-center px-5 pt-10 mx-auto lg:flex-row lg:pt-14 lg:pb-0">
         <div class="w-full lg:w-8/12 lg:-mt-10">
