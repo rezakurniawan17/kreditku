@@ -1,5 +1,5 @@
 <template>
-  <div class="debug-screens">
+  <div class="">
     <navbar-app></navbar-app>
     <hero-app></hero-app>
     <features-app></features-app>

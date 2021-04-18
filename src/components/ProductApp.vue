@@ -1,12 +1,12 @@
 <template>
   <section id="product-app">
-    <div class="container px-5 pt-24 mx-auto">
+    <div class="container px-5 py-24 mx-auto">
       <div class="flex flex-col items-center lg:flex-row">
         <div class="relative justify-center hidden w-6/12 pr-6 lg:bottom-[-20px] xl:bottom-0 lg:inline-flex">
           <img src="../assets/img/product.png" alt="">
         </div>
         <div class="w-full p-2 lg:p-5 lg:w-6/12">
-          <h5 class="mb-4 text-3xl font-bold text-center lg:text-4xl lg:text-left text-heading">Pembiayaan Kreditku</h5>
+          <h5 class="mb-10 text-3xl font-extrabold text-center lg:text-4xl lg:text-left text-heading">Pembiayaan Kreditku</h5>
           <div class="grid grid-cols-1 gap-8 lg:gap-6 xl:gap-8 md:grid-cols-2">
             <div v-for="product in products" :key="product.id" class="h-auto px-4 py-8 mx-auto text-center duration-500 ease-in-out transform hover:border-2 hover:border-primary hover:-translate-y-2 sm:w-9/12 md:w-11/12 lg:w-full lg:px-4 xl:px-6 lg:py-8 rounded-xl shadow-primary">
               <img class="items-center block mx-auto xl:w-24 lg:w-16" :src="product.img" :alt="product.title">
