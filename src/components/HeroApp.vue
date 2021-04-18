@@ -1,6 +1,6 @@
 <template>
   <section id="hero-app" class="relative px-3 pt-20 lg:px-5">
-    <div class="rounded-2xl bg-gradient-to-b h-full lg:h-auto from-[#5558ff] to-[#00C0ff]">
+    <div class="h-full rounded-2xl bg-primary lg:h-auto">
       <div class="container flex flex-col items-center px-3 pt-10 mx-auto lg:px-5 lg:flex-row lg:pt-14 lg:pb-0">
         <div class="w-full lg:w-8/12 lg:-mt-10">
           <h1 class="text-4xl sm:text-6xl leading-tight font-extrabold tracking-tight text-center text-white md:text-7xl lg:text-left lg:text-6xl xl:text-[82px]">Pusat Kredit Terbaik<br class="block lg:hidden"> No. 1 di Indonesia</h1>
